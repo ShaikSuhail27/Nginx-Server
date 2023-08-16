@@ -1,5 +1,5 @@
 Nginx is a web server which is used for web applicatons
- 
+New change
 Install-->yum install nginx -y
  
 systemctl enable nginx
